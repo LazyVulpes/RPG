@@ -1,0 +1,90 @@
+Converting GML script: SimplexNoise.gml
+ERROR: SimplexNoise.gml - 18: unexpected syntax error
+Too many errors - GML not processed : SimplexNoise.gml
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_generate_hash()
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_raw3(x, y, z, min, max)/// @param x
+/// @param  y
+/// @param  z
+/// @param  min
+/// @param  max
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_raw4(x, y, z, w, [ARRAY 1D:INT] hash, [ARRAY 1D:1D:INT] gradient, [ARRAY 1D:1D:INT] simplex, min, max)/// @param x
+/// @param  y
+/// @param  z
+/// @param  w
+/// @param  [ARRAY 1D:INT] hash
+/// @param  [ARRAY 1D:1D:INT] gradient
+/// @param  [ARRAY 1D:1D:INT] simplex
+/// @param  min
+/// @param  max
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_get_seed()
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_set_seed(seed)/// @param seed
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_calculate_2d(x, y, min, max, octaves, persistence, scale)/// @param x
+/// @param  y
+/// @param  min
+/// @param  max
+/// @param  octaves
+/// @param  persistence
+/// @param  scale
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_calculate_2dr(x, y, min, max, octaves, persistence, scale)/// @param x
+/// @param  y
+/// @param  min
+/// @param  max
+/// @param  octaves
+/// @param  persistence
+/// @param  scale
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_calculate_3d(x, y, z, min, max, octaves, persistence, scale)/// @param x
+/// @param  y
+/// @param  z
+/// @param  min
+/// @param  max
+/// @param  octaves
+/// @param  persistence
+/// @param  scale
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_calculate_3dr(x, y, z, min, max, octaves, persistence, scale)/// @param x
+/// @param  y
+/// @param  z
+/// @param  min
+/// @param  max
+/// @param  octaves
+/// @param  persistence
+/// @param  scale
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_calculate_4d(x, y, z, w, min, max, octaves, persistence, scale)/// @param x
+/// @param  y
+/// @param  z
+/// @param  w
+/// @param  min
+/// @param  max
+/// @param  octaves
+/// @param  persistence
+/// @param  scale
+
+Converting GML script: SimplexNoise.gml
+Converted description /// @description simplex_calculate_4dr(x, y, z, w, min, max, octaves, persistence, scale)/// @param x
+/// @param  y
+/// @param  z
+/// @param  w
+/// @param  min
+/// @param  max
+/// @param  octaves
+/// @param  persistence
+/// @param  scale
